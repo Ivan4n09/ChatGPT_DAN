@@ -1,0 +1,2 @@
+I tried something similar to the DAN prompt before I found out about it, but it didn't work. I believe the actual way to 'jailbreak' an engine lies withing memory management. It's much easier to 'control' GPTs with very large prompts this way.
+Also I'm learning to use github crrectly
